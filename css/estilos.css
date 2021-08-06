@@ -1,0 +1,35 @@
+h1{
+    color: chocolate;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+}
+a{
+    color: rgba(139, 137, 0, 0.795);
+    display: block;
+    text-align: center;
+}
+label{
+    display: block;
+    text-align: center;
+    font-family: fantasy;
+    color: darkred;
+}
+
+input{
+    display: block;
+    border:2px solid black;
+    margin:0 auto;
+    text-align: center;
+    color: dimgray;
+    font-family: monospace;
+}
+img{
+    text-align: center;
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
+    height: 40%;
+    width: 40%;
+    border-radius: 15px;
+
+}
